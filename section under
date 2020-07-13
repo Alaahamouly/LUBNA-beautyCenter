@@ -1,0 +1,37 @@
+      <!--start of Section Date-->
+      <section class="undernavbar">
+        <div class="">
+        <div class="container-fluid">
+          <div class="row">
+            
+
+              <div class="mdate col-sm-4 text-center ">
+                <div class="glyphicon glyphicon-calendar col-sm-2">
+                </div>
+                <div class="col-sm-10"> 
+                  <strong><p align="left">1<span>يناير<span></p></strong> 
+                </div>
+              </div>
+
+
+              <div class="srch col-sm-4">
+                    <div class="input-group">
+                      <input type="text" class="form-control" placeholder="Search for... أبحث عن">
+                      <span class="input-group-btn">
+                        <button class="btn btn-default" type="button">بحث</button>
+                      </span>
+                    </div><!-- /input-group  --> 
+              </div>
+
+              <div class="hdate col-sm-4">
+                <div class="col-sm-4">
+                 <p class="text-center">1<br><span>مارس</span></p>
+               </div>
+                 <div class="col-sm-4 col-sm-push-1">
+                 <p class="text-center">1<br><span>ذى الحجة</span></p>
+               </div>  
+              </div>
+
+         </div>
+       </div>
+      </section><!-- End of Section Date -->

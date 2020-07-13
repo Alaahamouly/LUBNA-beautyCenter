@@ -1,0 +1,374 @@
+body
+{
+	padding-top:50px;
+	background-color: #ffe7fc;
+	font-family: 'Droid Sans', sans-serif;
+	font-family: 'Droid Arabic Kufi', serif;
+}
+
+
+.q
+{
+	color:#fff;
+}
+
+
+/* Start NavBar */
+
+
+
+.navbar-default 
+.navbar-toggle
+{
+	border-color: #ffe7fc;
+}
+
+.navbar-default 
+.navbar-toggle 
+.icon-bar
+{
+	color: #9F239B;
+}
+
+.navbar-default 
+.navbar-nav > 
+.active > a, 
+.navbar-default 
+.navbar-nav > 
+.active > a:hover, 
+.navbar-default 
+.navbar-nav > 
+.active > a:focus
+ {
+	color: #000;
+	background-color: #FFE7FC;
+}
+
+.navbar-default 
+.navbar-nav > li > a:hover, 
+.navbar-default 
+.navbar-nav > li > a:focus
+{
+	color: #777;
+}
+.navbar-default 
+.navbar-nav > li > a
+{
+	color: #ffe7fc;
+}
+
+.navbar form
+{
+	margin-top: 2px;
+	margin-bottom: 0;
+	margin-left: 0;
+	padding-bottom: 0;
+	
+
+}
+
+.nav li:hover
+{
+	background-color: #FFE7FC;
+}
+
+.styl p
+{
+	padding: 3px;
+	margin: 5px;
+	color: #1556AC;
+	font-size: 20px;
+	border-radius: 10%;
+	background-color: #ffe7fc;
+}
+
+.styl span
+{
+	color:#f02;
+	font-size: 20px;
+	color: #A94442;
+}
+
+
+/* End NavBar */
+
+
+/* Start Section Search */
+
+#grad_transparency
+{
+	height: 55px;
+	background: linear-gradient(to right, rgba(186,85,211, 0.3), rgba(205,105,201, 0.3));
+}
+
+.searchbar .input-group
+{
+	margin-top: 13px;
+	margin-bottom: 13px;
+}
+
+.searchbar .input-group .form-control
+{
+	background-color: #222;
+	color:#ffe7fc;
+}
+
+.searchbar .input-group .btn-default
+{
+	background-color: #222;
+	color:#ffe7fc;
+}
+/* End Section Search */
+
+.searchbar
+{
+  background: #fff;
+  min-height:50px;
+  color: #000;
+}
+
+
+
+
+
+
+
+/* Start Footer */
+
+.footer
+{
+	background: #222;
+	color: #aaa;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.footer a
+{
+	color:#aaa;
+}
+
+.footer a:hover{
+	color:#fff;
+}
+
+.footer h3
+{
+	color: #0895d1;
+	letter-spacing: 1px;
+	margin:30px 0 20px;
+}
+
+.footer .two-columns
+{
+	overflow: hidden;
+}
+
+.footer .two-columns li
+{
+	width: 50%;
+	float: left;
+	padding:5px 0;
+}
+
+/* End Footer */
+
+
+/* Start HALLS page */
+
+/* Start Section Halls */
+
+.hall
+{
+	background: url("../images/hallsection.jpg") no-repeat center center fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	min-height:300px;
+	color:#222;
+	
+
+	
+}
+
+.hall .background
+{
+	background-color: #ddd;
+}
+
+.hall-image .img-circle:hover
+{
+	border-radius: 100%;
+	border: 2px solid #fff;
+}
+
+.hall-image
+{
+	margin-top: 30px;
+}
+
+.hall-header
+{
+	
+	margin-top: 60px;
+}
+
+.hall-header h1{
+	color: #A94442;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.hall-header p
+{
+	color: #1556AC;
+	padding-bottom: 5px;
+}
+
+
+.more-hall
+{
+	margin-left:38%;
+}
+
+.more-hall
+.pagination > li > a, 
+.pagination > li > span
+{
+	color: #337ab7;
+	background-color: #222;
+	border: 1px solid #FFE7FC;
+}
+
+
+/* End Section Halls */
+
+/* End HALLS page */
+
+
+
+/* Start SERVICES page*/
+
+.service
+{
+	background-color: #ddd;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.service:hover
+{
+	border: 3px solid #222;
+	
+}
+
+.service .srvcimg
+{
+	width: 210px;
+	height: 210px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: 5px;]
+	margin-left: 20px;
+}
+
+.service p
+{
+	color:#000;
+}
+
+.service h1
+{
+	color: #1556AC;
+}
+
+/* End SERVICES page*/
+
+
+
+
+/* Start RESERVATION page */
+
+
+.reservation .lead
+{
+	color:#0895d1;
+}
+
+
+
+.reservation h2
+{
+	color:#fff;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.reservationbackground 
+{
+
+	min-height:670px;
+}
+
+
+#linear_grad
+{
+height: 100px;
+background: linear-gradient(purple, plum);
+}
+
+
+.reservation .fieldcolor
+{
+	background-color: rgba(9,9,9,0.7);
+}
+
+.reservation input[type="text"],
+.reservation textarea
+{
+	background: rgba(82,78,78,0.7);
+	color: #fff;
+	border: none;
+}
+.reservation textarea
+{
+	height: 71px;
+}
+
+.reservation .btn-default {
+color: #0895d1;
+background-color: #5F4E69;
+border: none;
+}
+
+.reservation .btn
+{
+	  line-height: 2.428571;
+	  padding: 7px 23px;
+}
+
+/* End RESERVATION page */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
